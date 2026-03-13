@@ -1,4 +1,4 @@
-# \## 🚀 Overview
+# \## 🚀 OVERVIEW
 
 # This repository features a production-ready \*\*Retrieval-Augmented Generation (RAG)\*\* system specifically designed for financial document analysis. By leveraging the power of \*\*Gemini 2.5 Flash\*\* and \*\*FAISS vector storage\*\*, it allows users to perform complex queries against financial reports with high precision and low latency.
 
